@@ -1,0 +1,10 @@
+.tooltip{
+	position:absolute;
+	width:300px;
+	background-image:url(tool.png);
+	background-position:left center;
+	color:#FFF;
+	padding:5px 5px 5px 18px;
+	font-size:12px;
+	font-family:Verdana, Geneva, sans-serif;
+}
